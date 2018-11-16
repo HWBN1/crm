@@ -1,0 +1,40 @@
+10
+Ford Fiesta
+120
+4
+8
+Mazda2
+100
+4
+10
+Audi A4
+200
+4
+3
+Lexus LS
+210
+5
+4
+Cadillac CTS
+260
+4
+3
+Porsche 911
+400
+2
+2
+BMW Z4
+300
+2
+5
+Mazda CX-3
+120
+5
+12
+Hyundai Santa Fe
+120
+5
+10
+Toyota Camry
+100
+4
